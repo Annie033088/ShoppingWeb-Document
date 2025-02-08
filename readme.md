@@ -41,3 +41,4 @@
     1. 在訂單管理底下，使用者可以查詢、修改及刪除訂單
     2. 再運費管理底下，使用者可以修改運費金額以及對應的免運標準 (免運金額)
     ![Initialize Image](https://github.com/Annie033088/ShoppingWeb-Document/blob/Main/img/Order/Guide1.png)
+6. 頁面右上角可以進行登出
