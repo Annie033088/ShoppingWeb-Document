@@ -1,0 +1,11 @@
+/readme - DB.md
+.markdownlint.json
+package.json
+package-lock.json
+node_modules
+StudyNotes
+/ProjectUsing/ReviewNotes
+/ProjectUsing/testDataDoc
+/ProjectUsing/workDoc
+/ProjectUsing/異動紀錄.txt
+/readme - CMS.md
